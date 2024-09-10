@@ -1,12 +1,18 @@
 ﻿{
   "Descriptor": {
-    "UId": "25292798-f144-6d89-082f-d0a420821fd0",
+    "UId": "754650da-ae36-e484-2fe4-aa518ff9663b",
     "Name": "DevClassic",
     "Type": 1,
-    "ModifiedOnUtc": "\/Date(1715878198000)\/",
+    "ModifiedOnUtc": "\/Date(1715617211000)\/",
     "Maintainer": "Customer",
     "ProjectPath": "Files/DevClassic.csproj",
     "DependsOn": [
+      {
+        "UId": "2ecba2bd-b810-47a5-a1b1-08c888529d6c",
+        "PackageVersion": "7.8.0",
+        "Name": "CrtCustomer360App",
+        "Type": 1
+      },
       {
         "UId": "fe1effeb-74f2-42c5-b5e1-dfe0313b86bf",
         "PackageVersion": "7.8.0",
