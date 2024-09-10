@@ -2,7 +2,7 @@
 <Resources Culture="pt-PT">
 	<Group Type="String">
 		<Items>
-			<Item Name="Caption" Value="Edit page: &quot;Realty Classic&quot;" />
+			<Item Name="Caption" Value="Realty Classic section record tag" />
 		</Items>
 	</Group>
 </Resources>

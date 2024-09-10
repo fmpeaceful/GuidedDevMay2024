@@ -1,8 +1,8 @@
 ﻿{
   "Descriptor": {
-    "UId": "230fb643-d1a4-4ddd-93cc-ee146ba6b8e6",
+    "UId": "8281c6ac-c30d-439b-bcfb-6f51ef9f5d55",
     "Name": "UsrRealtyTypeClassic",
-    "ModifiedOnUtc": "\/Date(1715701178000)\/",
+    "ModifiedOnUtc": "\/Date(1716195083000)\/",
     "Parent": {
       "UId": "11ab4bcb-9b23-4b6d-9c86-520fae925d75",
       "Name": "BaseLookup"

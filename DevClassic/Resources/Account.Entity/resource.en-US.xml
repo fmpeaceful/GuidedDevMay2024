@@ -36,7 +36,7 @@
 			<Item Name="Columns.ProcessListeners.Caption" Value="Active processes" />
 			<Item Name="Columns.Region.Caption" Value="State/province" />
 			<Item Name="Columns.Type.Caption" Value="Type" />
-			<Item Name="Columns.UsrWebsiteCode.Caption" Value="Website code" />
+			<Item Name="Columns.UsrWebsiteCode.Caption" Value="Website Code" />
 			<Item Name="Columns.Web.Caption" Value="Web" />
 			<Item Name="Columns.Zip.Caption" Value="ZIP/postal code" />
 			<Item Name="EventsProcessSchema.Caption" Value="Business process" />

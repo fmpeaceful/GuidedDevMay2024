@@ -12,9 +12,9 @@ define("Accounts_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEM
 						"rowSpan": 1
 					},
 					"type": "crt.Input",
-					"label": "$Resources.Strings.PDS_UsrWebsiteCode_1vrtne9",
+					"label": "$Resources.Strings.PDS_UsrWebsiteCode_2o4uvfe",
 					"labelPosition": "auto",
-					"control": "$PDS_UsrWebsiteCode_1vrtne9",
+					"control": "$PDS_UsrWebsiteCode_2o4uvfe",
 					"multiline": false
 				},
 				"parentName": "AccountInfoFieldsContainer",
@@ -29,7 +29,7 @@ define("Accounts_FormPage", /**SCHEMA_DEPS*/[]/**SCHEMA_DEPS*/, function/**SCHEM
 					"attributes"
 				],
 				"values": {
-					"PDS_UsrWebsiteCode_1vrtne9": {
+					"PDS_UsrWebsiteCode_2o4uvfe": {
 						"modelConfig": {
 							"path": "PDS.UsrWebsiteCode"
 						}
